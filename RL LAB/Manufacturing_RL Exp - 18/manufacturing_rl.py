@@ -1,3 +1,5 @@
+#Simulate an RL framework to optimize a manufacturing process, where actions represent different machine settings and rewards are based on product quality. Implement the
+environment, policy, and value function in Python.
 import os
 import pandas as pd
 import numpy as np
